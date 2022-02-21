@@ -2,6 +2,7 @@
 Testando comando do/while
 
 //escrevendo 30x "Não vou colar na prova".
+
 public class GPT {
 
 	public static void main(String[] args) {
